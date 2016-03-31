@@ -8,7 +8,7 @@ class Hello extends CI_Controller
     }
 
     function index(){
-        echo "hello";
+        echo "hello1";
     }
 
 }
